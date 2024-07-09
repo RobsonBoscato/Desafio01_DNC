@@ -10,5 +10,5 @@ O **Desafio 01** consiste em replicar uma landing page com envio de formulário.
 
 ## Links Úteis
 
-- [Repositório do Projeto](link-do-repositorio)
+- [Repositório do Projeto](https://desafio001dnc.netlify.app/)
 - [Planilha de Dados] (https://docs.google.com/spreadsheets/d/1S9huP8q2z6Vl_fwwqFZ0NaASLMdF4PZPibqdzU7nUXo/edit?usp=sharing)
